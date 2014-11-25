@@ -1,0 +1,17 @@
+{
+  "appID": "396e222374a946e9bd28d38dc0075326",
+  "dependencies": {
+    "devkit-accelerometer": "https://github.com/gameclosure/accelerometer#v2.0.0",
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v2.0.13"
+  },
+  "shortName": "demoShakeDetect",
+  "studio": {
+    "domain": "gameclosure.com",
+    "name": "GameClosure"
+  },
+  "supportedOrientations": [
+    "portrait"
+  ],
+  "title": "demoShakeDetect",
+  "version": "1.0.0"
+}
